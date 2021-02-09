@@ -1,4 +1,4 @@
 <?php 
-echo "AWS Code deployed successfull";
+echo "AWS Code deployed successfully";
 
 ?>
